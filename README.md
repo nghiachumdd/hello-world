@@ -1,3 +1,3 @@
 # hello-world
 
-Author: Nghia
+Author: Nghia Lai
